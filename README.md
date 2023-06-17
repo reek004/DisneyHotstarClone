@@ -1,8 +1,8 @@
-#Disney+ Hotstar Landing Page Clone
+# Disney+ Hotstar Landing Page Clone
 This project is a clone of the landing page of Disney+ Hotstar, built using HTML, CSS, and JavaScript. It aims to replicate the visual design and layout of the Disney+ Hotstar landing page, providing users with a similar experience.
 
 Preview
-#Project link: https://l1w064.csb.app/
+## Project link: https://l1w064.csb.app/
 Disney+ Hotstar Landing Page Clone
 
 Features
