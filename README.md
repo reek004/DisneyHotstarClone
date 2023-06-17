@@ -5,8 +5,10 @@ Preview
 ## Project link: https://l1w064.csb.app/
 Disney+ Hotstar Landing Page Clone
 
-Features
+## Features
 Carousel: The clone has a carousel using JavaScript. <br/>
 Interactive Elements: The clone includes interactive elements such as navigation menus, buttons, and hover effects.<br/>
 Dynamic Content: The page can be easily updated with new content and sections.<br/>
 Visual Design: The project pays attention to visual details, such as typography, colors, and images, to closely resemble the original landing page.
+
+### The project was made using CodeSandbox
